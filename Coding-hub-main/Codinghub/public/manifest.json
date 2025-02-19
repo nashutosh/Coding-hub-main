@@ -1,0 +1,13 @@
+{
+  "short_name": "contestmania",
+  "name": "Contest Mania",
+  "lang": "en",
+  "description": "A website to keep track of your competitive coding",
+  "start_url": ".",
+  "background_color": "#00aae7",
+  "theme_color": "#00aae7",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
