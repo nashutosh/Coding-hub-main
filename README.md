@@ -1,6 +1,6 @@
 # Coding_Hub
 
-![Coding_Hub](https://nmssoftwares.com/logo.png)  
+![Coding_Hub](Coding-hub-main/Codinghub/public/images/logos/logo.png)  
 **Coding_Hub** is an advanced coding practice platform designed to provide a seamless coding experience. It features a vast collection of questions from popular coding platforms, company-specific challenges, and an integrated compiler for real-time execution.
 
 ## 🚀 Features
